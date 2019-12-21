@@ -7,7 +7,8 @@ Fitur yang sudah ada:
 - Pencarian Buku
 - Detail Buku
 - FAQ
-- About
+- Subscribers
+- Tentang Kami
 - Cart
 - Rekomendasi
 - Checkout
